@@ -216,3 +216,168 @@ nav li{
 	padding-left: 63px;
 	color: #ACACAC;
 }
+
+/*-----------------------secound div start*/
+.second-div{
+	padding-top: 1px;
+}
+
+.pricing-and-free-trail{
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 120px;
+    text-align: center;
+    margin-bottom: 92px;
+}
+
+.pricing-and-free-trail p{
+	color: #ACACAC;
+	font-size: 18px;
+}
+
+.pricing-and-free-trail h2{
+	font-size: 30px;
+
+}
+
+.second-div .basic{
+	width: 166px;
+    text-align: center;
+    margin-left: 120px;
+}
+
+.second-div .basic h3{
+	font-size: 22px;
+}
+
+.second-div .basic p{
+	color: #ACACAC;
+	font-size: 14px;
+}
+
+.second-div .standard{
+	width: 166px;
+    text-align: center;
+    margin-left: 383px;
+    margin-top: -248px;
+}
+
+.second-div .standard h3{
+	font-size: 22px;
+}
+
+.second-div .standard p{
+	color: #ACACAC;
+	font-size: 14px;
+}
+
+.second-div .enterprise{
+	width: 166px;
+    text-align: center;
+  	margin-left: 646px;
+    margin-top: -248px;
+}
+
+.second-div .enterprise h3{
+	font-size: 22px;
+}
+
+.second-div .enterprise p{
+	color: #ACACAC;
+	font-size: 14px;
+}
+
+.second-div .free{
+	width: 138px;
+    text-align: center;
+    margin-left: 130px;
+    margin-top: 66px;
+}
+}
+
+
+.second-div .free h3{
+	font-size: 25px;
+    margin-bottom: 5px;
+}
+
+
+.underline{
+	width: 52px;
+    border-bottom: 3px solid #121212;
+    margin: 10px auto;
+}
+
+.second-div .free p{
+	font-size: 17px;
+	color: #ACACAC;
+}
+
+.second-div .free button{
+	width: 100%;
+    padding: 10px;
+}
+
+
+
+.second-div .nine-nine{
+	width: 138px;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: -160px;
+}
+
+
+.second-div .nine-nine h3{
+	font-size: 25px;
+    margin-bottom: 5px;
+}
+
+
+.underline{
+	width: 52px;
+    border-bottom: 3px solid #121212;
+    margin: 10px auto;
+}
+
+.second-div .nine-nine p{
+	font-size: 17px;
+	color: #ACACAC;
+}
+
+.second-div .nine-nine button{
+	width: 100%;
+    padding: 10px;
+}
+
+
+.second-div .one-nine-nine{
+	width: 138px;
+    text-align: center;
+    margin-left: 660px;
+    margin-top: -159px;
+}
+
+
+.second-div .one-nine-nine h3{
+	font-size: 25px;
+    margin-bottom: 5px;
+}
+
+
+.underline{
+	width: 52px;
+    border-bottom: 3px solid #121212;
+    margin: 10px auto;
+}
+
+.second-div .one-nine-nine p{
+	font-size: 17px;
+	color: #ACACAC;
+}
+
+.second-div .one-nine-nine button{
+	width: 100%;
+    padding: 10px;
+}
+
